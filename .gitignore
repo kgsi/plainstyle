@@ -1,0 +1,19 @@
+.DS_Store
+._*
+.Trashes
+*.gem
+*.rbc
+.bundle
+.config
+*.log
+bower_components
+node_modules
+release
+.sass-cache
+
+# dist file
+!*.keep
+
+# Movie
+*.mp4
+*.webm
