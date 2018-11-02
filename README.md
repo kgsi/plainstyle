@@ -9,4 +9,4 @@ The Simple Components resources. This component style was created with inspirati
 ![plainstyle](./resources/image-cover.png)
 
 
-### [Download design file (.sketch)](./resources/plainstyle-design.sketch)
+### [Download design file (.sketch)](https://github.com/kgsi/plainstyle/raw/master/resources/plainstyle-design.sketch)
